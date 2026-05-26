@@ -1,0 +1,6 @@
+{
+  "name": "饭搭子 (Lunch Buddy)",
+  "description": "一个面向互联网公司员工与实习生的轻量情绪化午饭搭子与口味地图社交 Web App。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
